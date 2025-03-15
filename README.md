@@ -9,9 +9,9 @@ This project is meant to ease the work of taxation of car unit imported in Ugand
 
 The purpose is to provide a solution to the existing issues. Currently, the taxes are calculated upon declaration, which gives a client no time to plan and know the taxes. This software will give the tax estimate/actual values based of the value guideline to client so they can plan better.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/48aa0228e7014a449ab87c999031bd2d?sid=73f591b4-d0e1-4f99-a822-cc4f196da386 ![image](https://github.com/user-attachments/assets/0ad427f7-15d3-4ff9-9700-767233be1e5e)
+)
 
 # Development Environment
 
@@ -23,12 +23,10 @@ language used: C++
 
 {Make a list of websites that you found helpful in this project}
 
-- [Microsoft]([http://url.link.goes.here](https://learn.microsoft.com/en-us/cpp/ide/walkthrough-deploying-your-program-cpp?view=msvc-170))
+- [Microsoft](http://url.link.goes.here](https://learn.microsoft.com/en-us/cpp/ide/walkthrough-deploying-your-program-cpp?view=msvc-170))
 - [Visual studio code](https://code.visualstudio.com/docs/languages/cpp)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Add more cars than the current list (expect to add more than 1000 units)
 - Include Tonnage of cars that used that instead of cc.
