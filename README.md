@@ -1,10 +1,39 @@
 # carimport-taxation
+# Overview
 ## User case/stories.
 -The system keeps an updated Used MV guidelines valuation of car units imported to Uganda.
 -The user enters a car model (specific), year and cc of the car.
 -The search starts and if a match is found, the car is returned with its coresponding HS code and the CIF value of the car.
 -The code is then used to calculate the taxes based on the CIF value and HS code.
+This project is meant to ease the work of taxation of car unit imported in Uganda. As a software developer, i needed some language that can persofm such a huge task so fast and easily, requires less computing powere to peroform and can be deployed on every machine.
 
+The purpose is to provide a solution to the existing issues. Currently, the taxes are calculated upon declaration, which gives a client no time to plan and know the taxes. This software will give the tax estimate/actual values based of the value guideline to client so they can plan better.
+
+{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+Tools included Vs code, C++ compliler clang.
+
+language used: C++
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+
+- [Microsoft]([http://url.link.goes.here](https://learn.microsoft.com/en-us/cpp/ide/walkthrough-deploying-your-program-cpp?view=msvc-170))
+- [Visual studio code](https://code.visualstudio.com/docs/languages/cpp)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+
+- Add more cars than the current list (expect to add more than 1000 units)
+- Include Tonnage of cars that used that instead of cc.
+- convert the total taxes in local curreny (ugx), this will need this software to sync so it can pick the current exchange rate from Bank of Uganda to use in conversion.
+  
 #Meanings:
 - MV - Motor Vehicle.
 - car model - The model of the car, including its name.
